@@ -25,6 +25,9 @@
 .. image:: https://img.shields.io/github/last-commit/wikimedia/pywikibot
    :alt: Last commit
    :target: https://gerrit.wikimedia.org/r/plugins/gitiles/pywikibot/core/
+.. image:: https://archive.softwareheritage.org/badge/origin/https://github.com/wikimedia/pywikibot/
+   :alt: Software Heritage archive
+   :target: https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/wikimedia/pywikibot
 
 
 *********

@@ -1,0 +1,61 @@
+{
+	"@context": "https://w3id.org/codemeta/3.0",
+	"@type": "SoftwareSourceCode",
+	"applicationCategory": "Bot framework",
+	"author": [
+		{
+			"@type": "Organization",
+			"email": "pywikibot@lists.wikimedia.org",
+			"name": "The Pywikibot team",
+			"url": "https://www.mediawiki.org/wiki/Manual:Pywikibot"
+		}
+	],
+	"codeRepository": "https://gerrit.wikimedia.org/r/plugins/gitiles/pywikibot/core/",
+	"description": "The Pywikibot framework is a Python library that interfaces with the MediaWiki API version 1.33 or higher. Also included are various general function scripts that can be adapted for different tasks.",
+	"developmentStatus": "active",
+	"downloadUrl": "https://pypi.org/project/pywikibot/",
+	"identifier": [
+		"swh:1:dir:fff2440f66790f3abb7c3307ad9e8273f78d19ad",
+		"swh:1:rev:b8ccec48b3c26211cd498e27a5ca6eb071627cb1",
+		"https://archive.softwareheritage.org/swh:1:dir:fff2440f66790f3abb7c3307ad9e8273f78d19ad;origin=https://github.com/wikimedia/pywikibot;visit=swh:1:snp:9379c7bb53d20e83d20df40ce4a80801003c06a0;anchor=swh:1:rev:b8ccec48b3c26211cd498e27a5ca6eb071627cb1"
+	],
+	"issueTracker": "https://phabricator.wikimedia.org/tag/pywikibot/",
+	"keywords": [
+		"API",
+		"bot",
+		"client",
+		"framework",
+		"MediaWiki",
+		"Python",
+		"Wikibase",
+		"Wikidata",
+		"Wikimedia",
+		"Wikipedia"
+	],
+	"license": "https://spdx.org/licenses/MIT",
+	"maintainer": [
+		{
+			"@type": "Organization",
+			"email": "pywikibot@lists.wikimedia.org",
+			"name": "The Pywikibot team"
+		}
+	],
+	"name": "Pywikibot",
+	"operatingSystem": "OS Independent",
+	"programmingLanguage": {
+		"@type": "ComputerLanguage",
+		"name": "Python",
+		"url": "https://www.python.org/"
+	},
+	"readme": "https://github.com/wikimedia/pywikibot/blob/master/README.rst",
+	"releaseNotes": "https://doc.wikimedia.org/pywikibot/master/changelog.html",
+	"runtimePlatform": "Python >= 3.10",
+	"sameAs": "https://github.com/wikimedia/pywikibot",
+	"softwareHelp": "https://doc.wikimedia.org/pywikibot/stable/",
+	"softwareRequirements": [
+		"mwparserfromhell>=0.7.2",
+		"packaging>=25.0",
+		"requests>=2.32.3"
+	],
+	"url": "https://www.mediawiki.org/wiki/Manual:Pywikibot"
+}

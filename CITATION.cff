@@ -1,0 +1,44 @@
+---
+cff-version: 1.2.0
+message: >-
+  If you use Pywikibot in your work, please cite it using the
+  metadata from this file.
+type: software
+title: Pywikibot
+abstract: >-
+  The Pywikibot framework is a Python library that interfaces with the
+  MediaWiki API version 1.33 or higher. Also included are various
+  general function scripts that can be adapted for different tasks.
+authors:
+  - name: The Pywikibot team
+    email: pywikibot@lists.wikimedia.org
+    website: https://www.mediawiki.org/wiki/Manual:Pywikibot
+repository-code: https://gerrit.wikimedia.org/r/plugins/gitiles/pywikibot/core/
+repository: https://github.com/wikimedia/pywikibot
+repository-artifact: https://pypi.org/project/pywikibot/
+url: https://www.mediawiki.org/wiki/Manual:Pywikibot
+license: MIT
+keywords:
+  - API
+  - bot
+  - client
+  - framework
+  - MediaWiki
+  - Python
+  - Wikibase
+  - Wikidata
+  - Wikimedia
+  - Wikipedia
+identifiers:
+  - type: swh
+    value: swh:1:dir:fff2440f66790f3abb7c3307ad9e8273f78d19ad
+    description: >-
+      Software Heritage identifier of the source tree archived from
+      https://github.com/wikimedia/pywikibot at commit
+      b8ccec48b3c26211cd498e27a5ca6eb071627cb1.
+  - type: swh
+    value: swh:1:rev:b8ccec48b3c26211cd498e27a5ca6eb071627cb1
+    description: Software Heritage identifier of the archived revision.
+  - type: url
+    value: https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/wikimedia/pywikibot
+    description: Software Heritage archive of the GitHub mirror.

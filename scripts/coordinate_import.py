@@ -2,7 +2,7 @@
 #
 # (C) Pywikibot team, 2013-2026
 #
-# Distributed under the terms of MIT license.
+# Distributed under the terms of the MIT license.
 #
 """Coordinate importing script.
 
